@@ -85,11 +85,3 @@ This project uses nodemon for automatic server restarts during development. Make
 ```
 npm start
 ```
-
-## Future Improvements
-
-- Add a shopping cart functionality
-- Implement user authentication
-- Add payment processing
-- Create an admin interface for product management
-- Add search and filter capabilities
